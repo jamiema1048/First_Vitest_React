@@ -1,0 +1,3 @@
+live-reload-browser:false
+tabs:['src/App.test.jsx']
+terminal-one:npm run test:ui
